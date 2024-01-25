@@ -10,7 +10,7 @@
     </parent>
     <groupId>kz.freecode</groupId>
     <artifactId>utcdate</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>utcdate</name>
     <description>utcdate</description>
     <properties>
@@ -25,13 +25,5 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
